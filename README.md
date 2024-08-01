@@ -1,11 +1,16 @@
 **# Codtech-Task-1-**
 
-_**NAME:**_ A NAVEEN KUMAR
-_**COMPANY:**_ CodeTech IT Solutions 
-_**ID:**_ CT4WD5429
-_**DOMAIN:**_ Web Development  
+_**NAME:**_ A NAVEEN KUMAR 
+
+_**COMPANY:**_ CodeTech IT Solutions   
+
+_**ID:**_ CT4WD5429 
+
+_**DOMAIN:**_ Web Development
+
 _**DURATION:**_ 20th July to 20th Aug 2024 
-_**MENTOR:**_ Muzammil Ahmed
+
+_**MENTOR:**_ Muzammil Ahmed 
 
 
 
@@ -13,7 +18,7 @@ _**PROJECT OVERVIEW:**_
 
 **Crafting a user-friendly to-do list web app with CSS, HTML, and JavaScript!**
 
-![image]()
+![image](https://github.com/naveen23451/CODTECH-Task1/blob/ec45693a53ef58b9bf233469db63d62956ef0d20/task1.png)
 
 ### To-Do List Web App Project Overview
 
